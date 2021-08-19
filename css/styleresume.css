@@ -403,6 +403,7 @@ img {
 .education_title,
 .experience_title {
   font-size: var(--h3-font-size);
+  text-transform: uppercase;
 }
 .education_studies,
 .experience_company {
